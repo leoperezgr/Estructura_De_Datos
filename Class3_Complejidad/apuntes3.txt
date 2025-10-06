@@ -1,0 +1,60 @@
+RESUMEN – Introducción al análisis de algoritmos
+
+1. Introducción
+- Comparación de algoritmos para un mismo problema.
+- Un algoritmo se considera “mejor” por:
+  * Eficiencia temporal (tiempo).
+  * Eficiencia espacial (memoria).
+
+2. Factores que influyen en el tiempo de ejecución
+- Datos de entrada (tamaño y características).
+- Habilidad del programador.
+- Lenguaje y compilador.
+- Hardware disponible.
+- El algoritmo en sí.
+- Se busca lo inherente al problema y a su solución.
+
+3. Complejidad temporal
+- Identificar operación base.
+- Contar cuántas veces se ejecuta según n.
+- No se mide en minutos exactos, sino con una función de crecimiento.
+- Ejemplo: recorrer un arreglo → O(n).
+
+4. Casos de ejecución
+- Mejor caso: mínimo de operaciones.
+- Peor caso: máximo de operaciones.
+- Caso promedio: depende de probabilidades (difícil de calcular).
+
+5. Complejidad temporal asintótica
+- Analiza el crecimiento de funciones cuando n → ∞.
+- Notaciones principales:
+  * O-grande (O): cota superior.
+  * Ω (Omega): cota inferior.
+  * Θ (Theta): cota ajustada.
+- Órdenes comunes de complejidad:
+  O(1) Constante
+  O(log n) Logarítmica
+  O(n) Lineal
+  O(n log n) Linealítmica
+  O(n²) Cuadrática
+  O(n³) Cúbica
+  O(n^m) Polinómica
+  O(2^n) Exponencial
+  O(n!) Factorial
+
+6. Análisis de algoritmos iterativos
+- Un ciclo simple → O(n).
+- Dos ciclos anidados → O(n²).
+- Ciclos con divisiones/multiplicaciones en la variable de control → O(log n) o O(n log n).
+
+7. Análisis de algoritmos recursivos
+- Una llamada recursiva con decrementos → O(n) o O(log n).
+- Múltiples llamadas recursivas → puede ser exponencial (ej. O(2^n)).
+- Se cuentan llamadas y cambios en el parámetro de control.
+
+8. Recapitulación
+- Complejidad temporal y espacial.
+- Mejor, peor y caso promedio.
+- Notación asintótica (O, Θ, Ω).
+- Órdenes de complejidad.
+- Análisis de algoritmos iterativos y recursivos.

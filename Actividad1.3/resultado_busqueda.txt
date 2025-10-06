@@ -1,0 +1,23 @@
+May 27 12:49:32 | El Rincon del Gourmet | Cazuela de Mariscos | $385
+May 27 12:4:44 | El Valle | Costillas BBQ | $429
+May 27 13:28:34 | El Rinconcito Tropical | Langosta Termidor | $461
+May 27 13:7:4 R | La Francesa | Salmon a la Parrilla | $265
+May 27 14:4:40 | La Abuela | Sopa Minestrone | $143
+May 27 14:52:22 | The Artisan Table | Atun a la Parrilla | $255
+May 27 14:53:54 | El Cafe del Valle | Pulpo a la Gallega | $412
+May 27 15:41:44 | The Mediterranean Table | Fettuccine Alfredo | $265
+May 27 15:44:22 | El Sazon Mexicano | Salmon Gravlax | $273
+May 27 16:12:47 | El Patio Andaluz | Pozole Blanco | $147
+May 27 16:43:49 | La Francesa | Langosta Termidor | $402
+May 27 17:2:46 | The Greenhouse Cafe | Pollo Tikka Masala | $283
+May 27 17:37:30 | The Bistro at Sunset | Fajitas de Res | $261
+May 27 17:43:29 | Ocean | Filete de Res | $390
+May 27 17:47:49 | La Pasticceria | Pollo Tikka Masala | $313
+May 27 18:13:55 | El Cafe de la Abuela | Sopa de Verduras | $131
+May 27 18:30:43 | La Taberna | Pulled Pork Sandwich | $270
+May 27 18:36:11 | El Cafe del Valle | Goulash Hungaro | $408
+May 27 18:47:48 | The Classic Diner | Sopa de Cebolla | $131
+May 27 19:34:16 | The Countryside | Curry de Garbanzos | $270
+May 27 19:44:12 | The Fine Dining | enchiladas Verdes | $270
+May 27 20:38:17 | The Greenhouse Cafe | Panqueques con Miel | $141
+May 27 23:53:26 | El Mercado del Pueblo | Pizza Margherita | $274
