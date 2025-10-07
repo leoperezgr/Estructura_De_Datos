@@ -1,23 +1,332 @@
-May 27 12:49:32 | El Rincon del Gourmet | Cazuela de Mariscos | $385
-May 27 12:4:44 | El Valle | Costillas BBQ | $429
-May 27 13:28:34 | El Rinconcito Tropical | Langosta Termidor | $461
-May 27 13:7:4 R | La Francesa | Salmon a la Parrilla | $265
-May 27 14:4:40 | La Abuela | Sopa Minestrone | $143
-May 27 14:52:22 | The Artisan Table | Atun a la Parrilla | $255
-May 27 14:53:54 | El Cafe del Valle | Pulpo a la Gallega | $412
-May 27 15:41:44 | The Mediterranean Table | Fettuccine Alfredo | $265
-May 27 15:44:22 | El Sazon Mexicano | Salmon Gravlax | $273
-May 27 16:12:47 | El Patio Andaluz | Pozole Blanco | $147
-May 27 16:43:49 | La Francesa | Langosta Termidor | $402
-May 27 17:2:46 | The Greenhouse Cafe | Pollo Tikka Masala | $283
-May 27 17:37:30 | The Bistro at Sunset | Fajitas de Res | $261
-May 27 17:43:29 | Ocean | Filete de Res | $390
-May 27 17:47:49 | La Pasticceria | Pollo Tikka Masala | $313
-May 27 18:13:55 | El Cafe de la Abuela | Sopa de Verduras | $131
-May 27 18:30:43 | La Taberna | Pulled Pork Sandwich | $270
-May 27 18:36:11 | El Cafe del Valle | Goulash Hungaro | $408
-May 27 18:47:48 | The Classic Diner | Sopa de Cebolla | $131
-May 27 19:34:16 | The Countryside | Curry de Garbanzos | $270
-May 27 19:44:12 | The Fine Dining | enchiladas Verdes | $270
-May 27 20:38:17 | The Greenhouse Cafe | Panqueques con Miel | $141
-May 27 23:53:26 | El Mercado del Pueblo | Pizza Margherita | $274
+Mar 25 12:11:24 | El Sazon Mexicano | Tortilla espanola | $268
+Mar 25 12:45:18 | The Savory | Pollo al Curry | $277
+Mar 25 13:01:20 | La Trattoria Bella | ensalada Caprese | $131
+Mar 25 13:17:34 | El Cafe del Jardin | Huevos Benedictinos | $270
+Mar 25 13:33:03 | The Gourmet Deli | Sopa de Verduras | $135
+Mar 25 13:52:48 | The Caffeine Spot | Sopa de Verduras | $126
+Mar 25 14:18:00 | El Barzon | Pollo a la Brasa | $281
+Mar 25 14:35:56 | The Urban Bistro | Goulash Hungaro | $427
+Mar 25 14:36:17 | Sunset Grill | Beef Wellington | $422
+Mar 25 14:37:38 | El dragon | Tacos de Cochinita | $265
+Mar 25 14:42:18 | Brunch & Mimosas | Tacos de Camaron | $284
+Mar 25 15:28:28 | El Asador de la Abuela | Curry de Pollo | $264
+Mar 25 15:35:43 | Here and Now | Pollo con espinacas | $284
+Mar 25 15:57:16 | The other place | Pescado empapelado | $264
+Mar 25 16:05:56 | El Jardin de los Sabores | ensalada Niþoise | $263
+Mar 25 16:09:06 | La Furia | Ceviche de Pulpo | $281
+Mar 25 16:11:06 | The Local Bistro | Pulpo a la Gallega | $419
+Mar 25 16:15:30 | La Cocina de Alicia | Beef Stroganoff | $436
+Mar 25 16:42:41 | The Not Italian Bistro | Pozole Blanco | $159
+Mar 25 16:56:29 | The Food Haven | Huevos Benedictinos | $262
+Mar 25 17:02:59 | El Cafe de la Plaza | Beef Stroganoff | $404
+Mar 25 17:09:32 | The Rustic | Ceviche Mixto | $308
+Mar 25 17:19:05 | La Internacional | Tarta de Manzana | $138
+Mar 25 17:34:11 | The Farm-to-Table | Pollo Tikka Masala | $301
+Mar 25 17:58:48 | The Chic Restaurant | Ravioles de Ricotta | $282
+Mar 25 18:10:33 | The Urban Table | Gnocchi al Pesto | $307
+Mar 25 18:13:31 | The Classic Diner | Cochinita Pibil | $258
+Mar 25 18:18:05 | The Rustic Spoon | Cochinita Pibil | $282
+Mar 25 18:18:12 | The Waterfront | Falafel con Hummus | $303
+Mar 25 18:37:12 | The Gourmet Deli | Chuletas de Cordero | $406
+Mar 25 18:37:44 | The eatery | Pho Bo | $271
+Mar 25 18:52:24 | El Jardin de los Sabores | Sopa de Tortilla | $135
+Mar 25 19:01:46 | The Trendy eatery | empanadas Argentinas | $287
+Mar 25 19:29:15 | The Park | Spaghetti Carbonara | $288
+Mar 25 19:38:15 | La esquina del Taco | Ravioles de Ricotta | $254
+Mar 25 19:44:05 | The Cafe Lounge | Tarta de Santiago | $136
+Mar 25 19:51:12 | Los Sabores de Aqui | Fideua | $266
+Mar 25 19:54:48 | The Classic | Pasta a la Puttanesca | $304
+Mar 25 20:18:42 | El Rincon del Chef | Pizza Margherita | $291
+Mar 25 20:39:59 | The Farmhouse Cafe | Pollo Tikka Masala | $294
+Mar 25 21:06:24 | El Patio Andaluz | Pollo al Ajillo | $283
+Mar 25 21:48:07 | The American | empanadas Argentinas | $266
+Mar 25 22:04:20 | The Not Italian Bistro | Filete de Res | $474
+Mar 25 22:25:51 | La esquina del Taco | Sopa de Pollo | $128
+Mar 25 23:50:13 | El Restaurante de Ana | Curry de Garbanzos | $274
+Mar 26 12:13:45 | El Asador de la Abuela | Tarta de Manzana | $130
+Mar 26 12:15:16 | El Cafe de la Plaza | Chop Suey | $270
+Mar 26 12:21:56 | El Uro | Salmon a la Parrilla | $285
+Mar 26 12:30:49 | The Countryside | Sopa de Cebolla | $138
+Mar 26 12:40:17 | The Farmhouse | Bratwurst con Chucrut | $275
+Mar 26 12:41:35 | The Rustic | Tacos de Lengua | $298
+Mar 26 12:45:41 | The Savory | Panqueques con Miel | $138
+Mar 26 12:54:46 | The Gourmet Deli | Crema de Champinones | $136
+Mar 26 13:18:59 | The Rustic Kitchen | Mousse de Chocolate | $149
+Mar 26 13:20:05 | The Trendy Cafe | ensalada Cesar | $277
+Mar 26 13:56:06 | The Farm-to-Table | Arroz con Leche | $148
+Mar 26 14:18:19 | El Restaurante de Ana | ensalada Cesar | $271
+Mar 26 14:49:15 | El Restaurante de la Plaza | Pollo al Curry | $281
+Mar 26 15:20:12 | La Cocina del Chef | Churrasco | $387
+Mar 26 15:51:55 | El Otro Rincon | Cordero al Romero | $418
+Mar 26 16:00:04 | The Gourmet Lala | ensalada Cesar | $282
+Mar 26 16:19:09 | The Trendy eatery | Ensalada de Pollo | $287
+Mar 26 16:38:11 | The American | Arroz con Pollo | $267
+Mar 26 16:51:50 | El Grande | Croquetas de Jamon | $148
+Mar 26 16:54:29 | The Bee | Bruschetta | $128
+Mar 26 16:55:33 | Tierra y Mar | Tournedos Rossini | $415
+Mar 26 17:13:46 | The Farmhouse | Pulled Pork Sandwich | $274
+Mar 26 17:23:54 | Los Garcia | Tacos de Birria | $275
+Mar 26 17:46:48 | The Village | Tortilla espanola | $306
+Mar 26 17:50:22 | The Trendy Table | Fajitas de Res | $298
+Mar 26 17:56:27 | The Old Town | Tarta de Manzana | $156
+Mar 26 18:07:08 | El Jardin de los Sabores | Pasta a la Puttanesca | $268
+Mar 26 18:12:16 | El Otro Rincon | Cochinillo Asado | $425
+Mar 26 18:13:06 | The Rustic Table | Arroz Frito | $253
+Mar 26 18:16:29 | Here and Now | Pollo al Curry | $288
+Mar 26 18:16:57 | The Savory | Pad Thai | $274
+Mar 26 18:17:56 | Sunset Grill | Ravioles de Ricotta | $278
+Mar 26 18:35:54 | The Harvest House | Pozole Rojo | $286
+Mar 26 19:27:07 | El Sabor del Pueblo | Sopa de Mariscos | $398
+Mar 26 20:14:16 | The Artisan Table | Paella de Mariscos | $378
+Mar 26 21:23:15 | The Chic Bistro | Sopa de Pescado | $398
+Mar 27 12:30:37 | Los Rincones | Pechuga de Pollo Rellena | $253
+Mar 27 13:03:18 | El Rinconcito Tropical | Dim Sum | $299
+Mar 27 13:58:19 | El Sol | Burrata con Tomate | $268
+Mar 27 14:15:24 | The Savory | Bacalao a la Vizcaina | $408
+Mar 27 14:35:28 | El Otro Rincon | Queso Fundido | $139
+Mar 27 14:46:33 | The Artisan Table | Cordero al Romero | $383
+Mar 27 14:59:49 | The Not Italian Bistro | Falafel con Hummus | $307
+Mar 27 15:03:55 | Sunset Grill | Pasta Alfredo | $278
+Mar 27 15:16:17 | El dragon | Chow Mein | $265
+Mar 27 15:16:35 | Delicias del Valle | Ceviche de Pulpo | $283
+Mar 27 15:25:02 | The Caffeine Spot | Sopa de Pollo | $126
+Mar 27 15:34:19 | La Brasserie Gourmet | Langosta Termidor | $435
+Mar 27 15:43:54 | The Old Mill | Salmon al Horno | $312
+Mar 27 15:50:26 | Ana | Gnocchi al Pesto | $301
+Mar 27 16:27:03 | La Comida Casera | Shawarma de Pollo | $296
+Mar 27 16:29:32 | El Restaurante de la Plaza | Pollo al Limon | $275
+Mar 27 16:33:15 | The Cafe Lounge | Tacos de Lengua | $269
+Mar 27 16:47:07 | The Mediterranean Table | Ensalada de Pollo | $259
+Mar 27 17:04:30 | Delicias del Valle | Tacos de Cochinita | $275
+Mar 27 17:06:07 | The Urban Table | Gnocchi al Pesto | $307
+Mar 27 17:15:39 | El Sabor del Pueblo | Paella de Mariscos | $397
+Mar 27 17:22:48 | Dos hermanos | Paella Valenciana | $311
+Mar 27 17:38:42 | The Modern | Cochinillo Asado | $483
+Mar 27 17:44:13 | El Mar | Beef Stroganoff | $388
+Mar 27 17:45:03 | The Caffeine Spot | Ceviche Mixto | $255
+Mar 27 17:49:08 | The eatery | Tarta de Santiago | $137
+Mar 27 18:21:53 | La Trattoria Bella | Ceviche de Camaron | $258
+Mar 27 18:29:35 | The Bee | Cochinillo Asado | $395
+Mar 27 18:33:42 | El Restaurante de Ana | Tacos de Cochinita | $275
+Mar 27 19:31:54 | The Trendy Cafe | Tacos de Birria | $281
+Mar 27 19:38:39 | La Taberna | Gnocchi al Pesto | $271
+Mar 27 19:59:50 | El Rincon del Chef | Tacos de Birria | $292
+Mar 27 20:29:15 | El Marisco Feliz | Salmon al Horno | $280
+Mar 27 20:31:28 | La Comida Casera | Sopa de Cebolla | $152
+Mar 27 20:48:48 | El Sabor del Pueblo | Arroz Frito | $261
+Mar 27 20:56:41 | The Park | Pad Thai | $287
+Mar 27 23:31:00 | El Rincon Gourmet | Bratwurst con Chucrut | $277
+Abr 01 12:30:36 | The Trendy Table | Tacos de Barbacoa | $292
+Abr 01 14:21:28 | The Seafood Shack | Langosta Termidor | $425
+Abr 01 14:28:56 | The elegant Kitchen | Bistec a la Pimienta | $287
+Abr 01 14:42:22 | The Chic Restaurant | Tacos de Barbacoa | $279
+Abr 01 15:22:33 | City Bistro | Crepas con Nutella | $152
+Abr 01 15:43:10 | La Terraza | Crema de Champinones | $131
+Abr 01 16:37:13 | The Urban Bistro | Queso Fundido | $145
+Abr 01 16:40:53 | La Casa del Sabor | Yakitori de Pollo | $242
+Abr 01 17:48:34 | La Taqueria de la esquina | Pasta al Pesto | $283
+Abr 01 18:17:06 | El Jabali | Croquetas de Jamon | $131
+Abr 01 18:27:22 | La Rosticeria | Cordero al Romero | $418
+Abr 01 18:44:10 | The Garden Table | ensalada Griega | $144
+Abr 01 18:47:18 | El Restaurante de la Plaza | Paella Valenciana | $285
+Abr 01 18:49:08 | The Bistro Spot | Sopa de Verduras | $154
+Abr 01 19:44:54 | La Plaza de las Tapas | Beef Stroganoff | $404
+Abr 01 20:23:23 | The Rustic Kitchen | Sopa de Tortilla | $148
+Abr 01 21:14:07 | El dragon | Sopa de Cebolla | $135
+Abr 01 22:51:55 | Parkside Grill | Tortellini Alfredo | $300
+Abr 01 23:06:28 | La Francesa | Queso Fundido | $131
+Abr 02 12:12:26 | La Casa del Sabor | Hummus con Pita | $125
+Abr 02 12:14:27 | The elegant eatery | Chow Mein | $305
+Abr 02 12:27:25 | La Cocina de Mama | Pollo a la Cacciatora | $263
+Abr 02 12:29:11 | Ondina | Pasta al Pesto | $277
+Abr 02 12:45:36 | Por la Playa | Cazuela de Mariscos | $385
+Abr 02 12:50:45 | Ana | Arroz Frito | $295
+Abr 02 12:59:07 | La Cocina de la Abuela | Tacos de Cochinita | $273
+Abr 02 13:04:29 | The Chic Restaurant | Ceviche Mixto | $288
+Abr 02 13:35:56 | The Chic Bistro | Tacos de Camaron | $267
+Abr 02 13:46:34 | The Farmhouse | Sopa de Tomate | $138
+Abr 02 13:52:12 | El Nuevo Cafe | Fondue de Queso | $417
+Abr 02 14:20:31 | The Classic | ensalada Caprese | $155
+Abr 02 15:56:30 | The Bistro Spot | Tortellini Alfredo | $304
+Abr 02 17:20:28 | The Bistro Spot | Sopa de Verduras | $154
+Abr 02 18:34:44 | El Barzon | Tempura de Vegetales | $271
+Abr 02 18:43:05 | El Rincon Gourmet | Tarta de Manzana | $137
+Abr 02 18:44:59 | La Plaza de las Tapas | Ceviche Mixto | $277
+Abr 02 18:45:45 | La Cantina de Juan | Mariscos al Ajillo | $289
+Abr 02 19:31:41 | El Grande | Pho Bo | $290
+Abr 02 19:33:34 | The Wine Cellar | Sushi Roll | $280
+Abr 02 20:11:49 | La Cocina | Filete de Res | $406
+Abr 02 20:12:53 | El Mercado del Pueblo | Arroz Frito | $272
+Abr 02 22:23:16 | The eatery | Chow Mein | $271
+Abr 02 22:33:00 | El Rincon del Chef | Filete Mignon | $452
+Abr 02 23:30:43 | El Otro Rincon | Arepas Rellenas | $141
+Abr 02 23:55:32 | The Chic Restaurant | Pad Thai | $281
+Abr 03 12:07:38 | The Rustic Spoon | Pollo con espinacas | $279
+Abr 03 12:09:46 | Ocean | Tacos de Carnitas | $254
+Abr 03 12:21:00 | The Old Town | Ribeye Steak | $485
+Abr 03 12:24:46 | The Waterfront | Goulash Hungaro | $455
+Abr 03 12:37:05 | El Cafe de la Abuela | estofado de Ternera | $263
+Abr 03 12:57:57 | The Bee | Sopa de Tortilla | $130
+Abr 03 12:59:37 | El Cafe del Jardin | Ensalada de Pollo | $268
+Abr 03 13:25:05 | Casa de las empanadas | Tacos de Pescado | $271
+Abr 03 13:45:56 | La Cocina de la Abuela | Beef Wellington | $419
+Abr 03 14:11:23 | El Sabor | Chiles en Nogada | $418
+Abr 03 14:18:17 | Casa de las empanadas | Pollo con espinacas | $271
+Abr 03 14:40:48 | La Francesa | Pozole Blanco | $132
+Abr 03 15:33:59 | La Brasserie Gourmet | Lasana Bolonesa | $283
+Abr 03 16:23:23 | La Abuela | Crepas con Nutella | $141
+Abr 03 16:45:20 | La Brasserie Parisienne | Panuchos Yucatecos | $261
+Abr 03 17:25:37 | The Caffeine Spot | Ceviche de Camaron | $249
+Abr 03 18:21:35 | The Trendy eatery | Pozole Rojo | $286
+Abr 03 20:19:33 | The Savory | Beef Stroganoff | $410
+Abr 03 20:20:15 | The Rustic Kitchen | Tortellini Alfredo | $293
+Abr 03 20:40:57 | La Terraza del Mar | Croquetas de Jamon | $146
+Abr 04 12:26:13 | La Cocina de Mama | Pasta al Pesto | $260
+Abr 04 12:28:57 | The Corner Place | Camarones a la Diabla | $289
+Abr 04 12:58:18 | el Cafe del Centro | Spaghetti Carbonara | $299
+Abr 04 13:32:27 | Classic Cafe | Gambas al Ajillo | $305
+Abr 04 13:34:54 | Skyline Diner | Raviolis de espinaca | $276
+Abr 04 14:27:20 | La Parrilla Argentina | Arroz Frito | $289
+Abr 04 14:36:48 | El Marisco Feliz | Sopa Minestrone | $142
+Abr 04 15:26:52 | El Nuevo Cafe | Bacalao a la Vizcaina | $418
+Abr 04 15:45:49 | El Sazon Mexicano | Tacos de Cochinita | $271
+Abr 04 16:25:44 | The elegant Bistro | Yakitori de Pollo | $301
+Abr 04 17:13:35 | Ocean | Tarta de Santiago | $129
+Abr 04 17:50:06 | La Cocina de Mama | Lasana a la Bolonesa | $261
+Abr 04 18:10:05 | The Lakeside Bistro | ensalada Niþoise | $275
+Abr 04 18:15:50 | The elegant Kitchen | Sopa de Tortilla | $135
+Abr 04 18:18:05 | el Cafe del Centro | Ceviche de Camaron | $298
+Abr 04 19:17:15 | El Grande | empanadas Argentinas | $287
+Abr 04 20:21:20 | Sabores del Mundo | ensalada Waldorf | $130
+Abr 04 20:59:30 | Skyline Diner | Tortellini Alfredo | $274
+Abr 04 21:57:59 | The eatery | Pizza Margherita | $270
+Abr 04 22:48:12 | La Internacional | Lasana Bolonesa | $280
+Abr 05 12:07:01 | City Bistro | Bistec a la Pimienta | $323
+Abr 05 12:09:51 | The Village | Hamburguesa Gourmet | $313
+Abr 05 12:10:15 | The Rustic Kitchen | Pad Thai | $293
+Abr 05 12:32:44 | Cocina Miguel | Sopa de Pescado | $411
+Abr 05 12:48:41 | La Abuela | Cochinita Pibil | $282
+Abr 05 13:05:52 | The Stylish Diner | enchiladas Verdes | $281
+Abr 05 13:24:43 | El Sabor | Pulled Pork Sandwich | $281
+Abr 05 13:54:58 | The Rustic Table | Pollo Tikka Masala | $260
+Abr 05 14:40:28 | The Old Town | Tempura de Vegetales | $311
+Abr 05 14:53:19 | El Marisco Feliz | Pasta Primavera | $279
+Abr 05 15:10:29 | La esquina del Chef | Pollo al Limon | $252
+Abr 05 16:06:56 | Los Garcia | Arrachera Asada | $286
+Abr 05 16:35:55 | El Rincon del Chef | Arroz con Leche | $146
+Abr 05 16:36:00 | La Taberna | Pasta al Pesto | $271
+Abr 05 18:17:09 | The Farmhouse | Arroz con Leche | $136
+Abr 05 18:23:55 | The Bistro Lounge | Curry de Garbanzos | $289
+Abr 05 18:48:18 | The American | Sopa de Mariscos | $405
+Abr 05 19:16:25 | El Rincon Gourmet | Churrasco | $413
+Abr 05 19:37:22 | The Urban | estofado de Ternera | $298
+Abr 05 19:56:09 | El Marisco Feliz | Pho Bo | $277
+Abr 05 20:02:49 | El Rinconcito Tropical | Sopa de Verduras | $151
+Abr 05 20:30:33 | The Green Room | Kebab de Cordero | $309
+Abr 05 21:11:54 | The other place | Pad See ew | $259
+Abr 05 21:31:49 | El Cafe del Chef Pablo | Cordero Asado | $421
+Abr 05 21:37:51 | The Modern | Tarta de Santiago | $159
+Abr 05 21:57:06 | The Urban Bistro | ensalada Caprese | $147
+Abr 05 23:29:04 | Urban eats | Pollo con espinacas | $307
+Abr 06 13:26:44 | El Barzon | Pollo a la Cacciatora | $278
+Abr 06 13:59:42 | Bistro Boulevard | Carne de Res en Salsa | $305
+Abr 06 14:18:13 | Brunch & Mimosas | Spaghetti Carbonara | $286
+Abr 06 14:42:04 | Harbor Lights Restaurant | Beef Stroganoff | $471
+Abr 06 16:39:25 | The Chic Bistro | Coq au Vin | $405
+Abr 06 17:11:13 | Bosque Real | Queso Fundido | $141
+Abr 06 17:50:27 | El Sazon Mexicano | Tacos al Pastor | $138
+Abr 06 18:12:45 | El Rincon del Gourmet | Tacos de Pescado | $256
+Abr 06 18:47:33 | Tierra y Mar | Cordero al Romero | $405
+Abr 06 19:13:27 | The Bistro at Sunset | Sopa de Mariscos | $385
+Abr 06 19:25:56 | El Rincon del Chef | Sopa de Tomate | $147
+Abr 06 19:50:11 | El Sol | Paella Valenciana | $276
+Abr 06 19:58:08 | The Food Haven | Enchiladas Suizas | $260
+Abr 06 20:52:27 | El Jabali | Shawarma de Pollo | $254
+Abr 06 21:45:08 | The Greenhouse Cafe | Sopa de Cebolla | $143
+Abr 06 21:48:45 | El Cafe de la Abuela | Pollo a la Cacciatora | $263
+Abr 07 12:02:12 | Sabores del Mundo | Pulpo a la Gallega | $380
+Abr 07 12:21:34 | El Sabor del Pueblo | Sopa de Cebolla | $135
+Abr 07 12:21:59 | Rios | Burrata con Tomate | $291
+Abr 07 12:34:42 | La Furia | Ratatouille | $274
+Abr 07 14:46:19 | La Bella Notte | Pizza de Pepperoni | $276
+Abr 07 15:05:43 | Classic Cafe | Filete Mignon | $455
+Abr 07 16:15:14 | La Taberna del Chef | Filete de Res | $429
+Abr 07 17:00:16 | The Savory | empanadas de Carne | $141
+Abr 07 17:39:44 | El Cafe de Lola | Sopa de Pollo | $149
+Abr 07 18:12:33 | Bosque Real | Pollo Tikka Masala | $283
+Abr 07 18:20:08 | El Sabor | Cordero Asado | $425
+Abr 07 18:40:58 | Skyline Diner | ensalada Waldorf | $141
+Abr 07 19:10:50 | El Cafe de la Abuela | Tarta de Manzana | $129
+Abr 07 19:20:05 | El Marisco Feliz | Sopa de Pollo | $141
+Abr 07 19:21:45 | Ocean | Fondue de Queso | $379
+Abr 07 20:17:19 | El Grande | Tarta de Santiago | $147
+Abr 07 20:49:37 | The Modern | Arroz con Pollo | $312
+Abr 07 21:53:33 | El Rincon del Gourmet | Burrata con Tomate | $255
+Abr 08 12:25:23 | La Brasserie Gourmet | Gnocchi al Pesto | $281
+Abr 08 13:02:57 | El Restaurante de Ana | ensalada Waldorf | $143
+Abr 08 13:50:39 | El Sol | Pasta Alfredo | $272
+Abr 08 16:05:03 | La Rosticeria | Fondue de Queso | $410
+Abr 08 18:17:06 | The Green Room | Tacos de Lengua | $305
+Abr 08 19:06:01 | La Cabana | Tournedos Rossini | $389
+Abr 08 19:27:50 | The Not Italian Bistro | Tarta de Santiago | $156
+Abr 08 19:41:40 | La Cocina del Chef | Carne de Res en Salsa | $265
+Abr 08 20:14:08 | The Village | Sopa de Mariscos | $465
+Abr 08 21:56:26 | The Old Town | Lasana Bolonesa | $317
+Abr 08 23:24:21 | Classic Cafe | Arroz con Pollo | $293
+Abr 08 23:31:39 | The Not Italian Bistro | Ratatouille | $310
+Abr 09 13:04:49 | The Seafood Shack | Fideua | $274
+Abr 09 14:38:57 | The Bistro Lounge | Costillas de Cordero | $445
+Abr 09 14:56:33 | Sabores del Mundo | Hamburguesa Gourmet | $255
+Abr 09 15:05:22 | El Cafe de la Abuela | Lomo Saltado | $262
+Abr 09 15:06:05 | The House | Paella de Mariscos | $426
+Abr 09 15:52:36 | El Rincon del Gourmet | Sushi Roll | $257
+Abr 09 17:01:57 | La Taqueria de la esquina | Huevos Benedictinos | $281
+Abr 09 17:05:05 | El Jardin de los Sabores | Lasana Vegetariana | $270
+Abr 09 17:56:07 | The House | Fideua | $285
+Abr 09 18:03:42 | El Otro Rincon | Moussaka | $279
+Abr 09 18:20:10 | The Corner Place | Pato a la Naranja | $294
+Abr 09 18:35:22 | The Modern | Goulash Hungaro | $468
+Abr 09 18:42:48 | El Restaurante de Ana | Sopa de Lentejas | $141
+Abr 09 19:12:22 | Dos hermanos | Churrasco | $454
+Abr 09 19:23:32 | El Grande | Pulled Pork Sandwich | $291
+Abr 09 19:36:57 | Marthas | Chiles en Nogada | $386
+Abr 09 20:03:08 | The Gourmet Lala | Pollo Teriyaki | $283
+Abr 09 20:36:45 | The Village | Coq au Vin | $470
+Abr 10 12:20:39 | The American | Pizza Margherita | $267
+Abr 10 13:26:37 | La Furia | Tortellini Alfredo | $274
+Abr 10 13:40:51 | el Cafe del Centro | Tortellini Alfredo | $298
+Abr 10 14:35:45 | La Comida Casera | Moussaka | $303
+Abr 10 16:21:19 | The elegant Bistro | Chiles en Nogada | $453
+Abr 10 16:28:59 | La Terraza del Chef | Coq au Vin | $454
+Abr 10 17:25:59 | Here and Now | Sopa de Lentejas | $145
+Abr 10 17:48:10 | La Trattoria Bella | Lasana a la Bolonesa | $258
+Abr 10 17:55:54 | The Stylish Diner | Bacalao a la Vizcaina | $424
+Abr 10 18:50:50 | La Cocina de Pablo | Beef Wellington | $419
+Abr 10 19:23:09 | The Rustic Kitchen | estofado de Ternera | $298
+Abr 10 19:36:29 | La Cocina del Mercado | Pollo a la Cacciatora | $291
+Abr 10 20:08:10 | The Village | Chuletas de Cordero | $474
+Abr 10 20:25:10 | The Old Town | Tarta de Santiago | $159
+Abr 10 20:33:48 | El Cafe de la Abuela | Tiradito de Pescado | $258
+Abr 10 20:40:33 | The Classic | Cochinita Pibil | $306
+Abr 10 22:46:46 | La Pasticceria | Panqueques con Miel | $156
+Abr 11 12:01:21 | La Francesa | Fajitas de Res | $264
+Abr 11 12:31:24 | El Cafe del Valle | Ceviche de Camaron | $275
+Abr 11 13:58:27 | El Rincon del Gourmet | Cordero Asado | $389
+Abr 11 14:10:25 | El Fogon de la Abuela | Arroz con Leche | $136
+Abr 11 14:22:41 | El Rincon del Mar | Pollo con Mole | $261
+Abr 11 15:02:50 | The Fine Dining | Pollo a la Cacciatora | $278
+Abr 11 15:04:59 | The other place | Sopa Minestrone | $132
+Abr 11 15:41:00 | The Classic Diner | Langosta Termidor | $399
+Abr 11 15:41:27 | La Rosticeria | Panuchos Yucatecos | $271
+Abr 11 15:43:19 | The Main | ensalada Griega | $152
+Abr 11 16:24:24 | The Lakeside Bistro | Bruschetta | $140
+Abr 11 16:32:38 | Classic Cafe | Cochinita Pibil | $297
+Abr 11 17:05:18 | El Mar | Pollo con Mole | $261
+Abr 11 17:13:41 | La Furia | Osso Buco | $416
+Abr 11 17:49:02 | La Parrilla Argentina | Cazuela de Mariscos | $440
+Abr 11 18:07:54 | The Gourmet Lala | Lasana Vegetariana | $289
+Abr 11 19:17:51 | The Classic Diner | Pizza de Pepperoni | $255
+Abr 11 19:18:22 | El Cafe del Jardin | Tacos de Camaron | $271
+Abr 11 20:37:43 | La Abuela | Atun a la Parrilla | $283
+Abr 11 20:54:11 | Las salsas | Pollo con Mole | $300
+Abr 11 23:48:34 | El Cafe de la Plaza | Cochinillo Asado | $415
