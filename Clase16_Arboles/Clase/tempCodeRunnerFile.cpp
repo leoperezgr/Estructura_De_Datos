@@ -202,7 +202,7 @@ void BST::showTree()
 int main(int argc, char  *argv[])
 {	
 	BST *bst = new BST(25);
-	
+	showTree();
 
 	NodeTree *aux = bst->search(25);
 
@@ -230,7 +230,7 @@ int main(int argc, char  *argv[])
 	// bst->remove(34);
 
 
-	aux = bst->search(4);
+	saux = bst->search(4);
 
 	cout << aux << endl;
 	
