@@ -1,0 +1,163 @@
+City Bistro 80 23806
+Urban eats 74 23717
+The Rustic Kitchen 78 23675
+The Stylish Diner 78 22784
+Ondina 80 21659
+The American 75 21428
+The Bistro Lounge 68 21210
+El Sol 73 20929
+Classic Cafe 69 20926
+La Bella Notte 73 20667
+Sunset Grill 74 20664
+The Bee 80 20635
+The Spot 64 20588
+The Harvest 79 20509
+The Trendy eatery 69 20438
+La Parrilla Argentina 71 20428
+La Francesa 79 20378
+The elegant Bistro 65 20342
+The Not Italian Bistro 67 20135
+La Furia 73 19979
+La Cocina de Alicia 65 19940
+El Sabor del Pueblo 82 19907
+Las salsas 67 19866
+The Harvest House 71 19864
+The Village 62 19798
+El Restaurante de la Plaza 68 19556
+La Cocina del Chef 76 19518
+El Sazon Mexicano 71 19482
+Brunch & Mimosas 65 19434
+Casa de las empanadas 64 19411
+The Rustic Spoon 70 19376
+Here and Now 66 19287
+El Restaurante de Ana 69 19277
+El Rincon del Chef 64 19253
+The Classic 60 19241
+The Food Haven 66 19187
+The Savory 67 19147
+The Gourmet Lala 66 19133
+The Modern 58 19103
+The Bistro Spot 64 19099
+La Pasticceria 61 19016
+The Countryside 64 18990
+The Main 63 18893
+The Lakeside Bistro 67 18863
+Dos hermanos 61 18758
+El Cafe de la Plaza 66 18752
+The Old Mill 59 18706
+The Cafe Lounge 68 18698
+El Rincon 64 18678
+Parkside Grill 67 18660
+The Waterfront 65 18602
+The Urban Bistro 64 18575
+Bistro Boulevard 60 18554
+The Lounge 69 18521
+The Fine Dining 67 18452
+El Rinconcito Tropical 59 18414
+El Rincon del Gourmet 72 18365
+The Seafood Shack 66 18324
+La Terraza del Mar 62 18211
+Marthas 70 18150
+La Terraza del Chef 56 18110
+El Cafe de la Abuela 70 18100
+Ana 60 18051
+El Marisco Feliz 68 18017
+La Comida Casera 60 17815
+The Greenhouse Cafe 66 17731
+La Taqueria de la esquina 59 17727
+The Trendy Cafe 67 17724
+The Urban 62 17701
+El Sabor 59 17695
+The Corner Place 62 17656
+The eatery 65 17501
+El Pueblo 61 17466
+The House 64 17463
+La Cantina de Juan 59 17428
+El Cafe del Chef Pablo 62 17418
+The elegant Kitchen 62 17377
+La Internacional 61 17307
+El Asador de la Abuela 60 17300
+El Cafe del Valle 58 17300
+La Abuela 59 17209
+El dragon 66 17187
+La Cocina de Pablo 59 17097
+Tierra y Mar 63 17000
+El Valle 58 16984
+El Otro Rincon 59 16976
+Cocina Miguel 56 16939
+La Taberna del Chef 58 16937
+La Cocina 63 16861
+Sabor a Mar 60 16843
+El Barzon 62 16827
+La Rosticeria 60 16821
+Ocean 63 16812
+La esquina del Taco 68 16768
+The Garden Table 59 16729
+El Mar 61 16640
+The Farm-to-Table 61 16582
+The Gourmet Deli 63 16560
+The Chic Bistro 60 16542
+The Caffeine Spot 67 16449
+The Farmhouse Cafe 57 16414
+Don Perfecto 62 16395
+La Cabana 63 16383
+La esquina del Chef 61 16306
+El Jardin de los Sabores 57 16234
+The Old Town 53 16147
+The Green Room 54 16139
+La Cocina de la Abuela 58 16125
+La Taberna 65 16117
+El Patio Andaluz 55 15986
+The Modern Palate 60 15967
+La Casa del Sabor 65 15963
+Harbor Lights Restaurant 51 15801
+The Wine Cellar 56 15800
+El Mercado del Pueblo 56 15745
+El Fogon de la Abuela 60 15735
+The Rustic 50 15710
+Los Rincones 67 15638
+El Cafe del Jardin 61 15626
+La Brasserie Gourmet 52 15559
+The Bistro at Sunset 56 15551
+The Chic Restaurant 53 15506
+el Cafe del Centro 54 15402
+La Brasserie Parisienne 60 15350
+El Cafe de Lola 52 15344
+The Park 55 15306
+The Trendy Table 57 15292
+The Local Bistro 50 15249
+El Grande 54 15221
+The elegant eatery 48 15049
+The Farmhouse 61 15010
+The Mediterranean Table 57 14958
+Delicias del Valle 55 14900
+Bosque Real 51 14799
+La Terraza del Valle 61 14734
+The Classic Diner 58 14641
+Rios 51 14575
+The Artisan Table 57 14500
+Los Sabores de Aqui 55 14376
+The Urban Table 50 14339
+The Taste 55 14303
+Los Garcia 49 14182
+El Jabali 56 14181
+The Cafe Bistro 55 14171
+El Uro 51 14148
+Sabores del Mundo 58 14115
+The Rustic Table 53 14085
+Skyline Diner 49 14076
+El Nuevo Cafe 49 14049
+The Table 53 13971
+La Plaza de las Tapas 51 13958
+La Cocina de Mama 51 13931
+La Trattoria Bella 55 13842
+El Restaurante de la esquina 49 13738
+Por la Playa 53 13653
+El Rincon Gourmet 48 13098
+La Terraza 55 13056
+El Rincon del Mar 52 13019
+The Modern eatery 49 12752
+The New 46 12421
+La Cocina del Mercado 44 12402
+The Southern Grill 46 11955
+The other place 45 11842
