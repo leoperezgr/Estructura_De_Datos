@@ -56,7 +56,7 @@ class Hash {
 };
 
 //Convierte la llave string a una llave entera (suma ASCII).
-// Complejidad: O(n)
+//Complejidad: O(n)
 template<class T>
 int Hash<T>::computeKey(string str_key) {
     int key = 0;
