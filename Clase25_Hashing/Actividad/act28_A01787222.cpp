@@ -55,7 +55,7 @@ class Hash {
         bool remove(string);
 };
 
-//Convierte la llave string a una llave entera (suma ASCII).
+//Convierte la llave string a una llave entera, con la suma ASCII.
 //Complejidad: O(n)
 template<class T>
 int Hash<T>::computeKey(string str_key) {
@@ -77,9 +77,8 @@ int Hash<T>::hashFunction(int key, int i) {
 //Complejidad: O(n)
 template<class T>
 void Hash<T>::show() {
-    cout << "----------------------------------------" << endl;
-    cout << "Index\tstr_key\tint_key\titem" << endl;
 
+    cout <<"\nTabla: "<<endl;
     for (int j = 0; j < maxSize; j++) {
         cout << j << ":\t";
         if (!table[j]->free) {
@@ -87,12 +86,10 @@ void Hash<T>::show() {
                  << table[j]->int_key << "\t"
                  << table[j]->item;
         } else {
-            cout << "---";
+            cout << "-1";
         }
         cout << endl;
     }
-
-    cout << "----------------------------------------" << endl << endl;
 }
 
 //Inserta un nuevo elemento.
@@ -100,7 +97,7 @@ void Hash<T>::show() {
 template<class T>
 void Hash<T>::insert(string str_key, T value) {
     if (currentSize >= maxSize) {
-        cout << "Tabla llena. No se pudo insertar \"" << str_key << "\"." << endl;
+        cout << "Tabla llena. No se pudo insertar..." << str_key << endl;
         return;
     }
 
@@ -115,10 +112,10 @@ void Hash<T>::insert(string str_key, T value) {
         if (table[h_key]->free) {
             table[h_key]->str_key = str_key;
             table[h_key]->int_key = key;
-            table[h_key]->h_key   = h_key;
-            table[h_key]->item    = value;
+            table[h_key]->h_key = h_key;
+            table[h_key]->item = value;
 
-            table[h_key]->free      = false;
+            table[h_key]->free = false;
             table[h_key]->neverUsed = false;
 
             currentSize++;
@@ -129,7 +126,7 @@ void Hash<T>::insert(string str_key, T value) {
     }
 
     if (!flag) {
-        cout << "No se encontró espacio para \"" << str_key << "\" (tabla llena)." << endl;
+        cout << "No se encontró espacio para " << str_key << " (tabla llena)." << endl;
     }
 }
 
@@ -149,7 +146,7 @@ int Hash<T>::find(string str_key) {
         }
 
         if (!table[h_key]->free && table[h_key]->str_key == str_key) {
-            cout << "Elemento \"" << str_key << "\" encontrado en índice "
+            cout << "Elemento " << str_key << " encontrado en indice "
                  << h_key << " con valor " << table[h_key]->item << "." << endl;
             return h_key;
         }
@@ -157,7 +154,7 @@ int Hash<T>::find(string str_key) {
         iCol++;
     }
 
-    cout << "Elemento \"" << str_key << "\" no encontrado." << endl;
+    cout << "Elemento " << str_key << " no encontrado." << endl;
     return -1;
 }
 
@@ -167,12 +164,12 @@ template<class T>
 bool Hash<T>::update(string str_key, T newValue) {
     int pos = find(str_key);
     if (pos == -1) {
-        cout << "No se pudo actualizar \"" << str_key << "\" (no existe)." << endl;
+        cout << "No se pudo actualizar " << str_key << " (no existe)." << endl;
         return false;
     }
 
     table[pos]->item = newValue;
-    cout << "Elemento \"" << str_key << "\" actualizado a " << newValue << "." << endl;
+    cout << "Elemento " << str_key << " actualizado a " << newValue << endl;
     return true;
 }
 
@@ -182,18 +179,18 @@ template<class T>
 bool Hash<T>::remove(string str_key) {
     int pos = find(str_key);
     if (pos == -1) {
-        cout << "No se pudo eliminar \"" << str_key << "\" (no existe)." << endl;
+        cout << "No se pudo eliminar " << str_key << " (no existe)." << endl;
         return false;
     }
 
     table[pos]->free    = true;
     table[pos]->str_key = "";
     table[pos]->int_key = -1;
-    table[pos]->h_key   = -1;
-    table[pos]->item    = T();
+    table[pos]->h_key = -1;
+    table[pos]->item = T();
 
     currentSize--;
-    cout << "Elemento \"" << str_key << "\" eliminado." << endl;
+    cout << "Elemento " << str_key << " eliminado." << endl;
     return true;
 }
 
@@ -201,34 +198,31 @@ bool Hash<T>::remove(string str_key) {
 int main() {
 
     Hash<int> htable(10);
-
-    cout << "Insertando elementos..." << endl;
-
-    htable.insert("Ana",    65);   htable.show();
-    htable.insert("Lola",   30);   htable.show();
-    htable.insert("Anahi",  24);   htable.show();
-    htable.insert("Aldo",   35);   htable.show();
-    htable.insert("Aba",    20);   htable.show();
-    htable.insert("Lalo",   36);   htable.show();
+    htable.insert("Ana", 65);   htable.show();
+    htable.insert("Lola", 30);   htable.show();
+    htable.insert("Anahi", 24);   htable.show();
+    htable.insert("Aldo", 35);   htable.show();
+    htable.insert("Aba", 20);   htable.show();
+    htable.insert("Lalo", 36);   htable.show();
     htable.insert("Lorena", 25);   htable.show();
 
-    cout << "Actualizando (Anahi, 24) -> (Anahi, 23)..." << endl;
+    cout << "\nActualizando Anahi, 24 a (Anahi, 23" << endl;
     htable.update("Anahi", 23);
     htable.show();
 
-    cout << "Eliminando (Aldo, 35)..." << endl;
+    cout << "\nEliminando (Aldo, 35)" << endl;
     htable.remove("Aldo");
     htable.show();
 
-    cout << "Buscando Anahi..." << endl;
+    cout << "\nBuscando Anahi" << endl;
     htable.find("Anahi");
     htable.show();
 
-    cout << "Buscando Aldo..." << endl;
+    cout << "\nBuscando Aldo" << endl;
     htable.find("Aldo");
     htable.show();
 
-    cout << "Insertando (Leyla, 36)..." << endl;
+    cout << "\nInsertando (Leyla, 36)" << endl;
     htable.insert("Leyla", 36);
     htable.show();
 
